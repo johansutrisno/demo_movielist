@@ -1,6 +1,7 @@
 {
   "movie": [
     {
+    "movieId": 1,
     "id": 1,
     "title": "Asih",
     "genre": "Horor",
@@ -8,6 +9,7 @@
     "thumbnailUrl": "https://via.placeholder.com/600/92c952"
   },
   {
+    "movieId": 1,
     "id": 2,
     "title": "Venom",
     "genre": "Action, Horor, Sci-Fi",
@@ -15,6 +17,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
+    "movieId": 1,
     "id": 3,
     "title": "Goosebumps 2: Haunted Halloween",
     "genre": "Adventure, Comedy, Family",
@@ -22,6 +25,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
+    "movieId": 1,
     "id": 4,
     "title": "A-x-l",
     "genre": "Adventure, Family, Sci-Fi",
@@ -29,6 +33,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
+    "movieId": 1,
     "id": 5,
     "title": "Smallfoot",
     "genre": "Animation, Adventure, Comedy",
@@ -36,6 +41,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
+    "movieId": 1,
     "id": 6,
     "title": "First Man",
     "genre": "Biography, Drama, History",
@@ -43,6 +49,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
+    "movieId": 1,
     "id": 7,
     "title": "Johnny English Strikes Again",
     "genre": "Action, Adventure, Comedy",
@@ -50,6 +57,7 @@
     "thumbnailUrl": "https://via.placeholder.com/150/92c952"
   },
   {
+    "movieId": 1,
     "id": 8,
     "title": "Aruna Dan Lidahnya",
     "genre": "Drama, Romance, Kuliner",
